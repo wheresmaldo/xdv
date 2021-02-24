@@ -1,0 +1,18 @@
+{
+  "name": "custom-html5-video",
+  "version": "1.0.0",
+  "description": "Template for CLEAR project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start -sw"
+  },
+  "keywords": [
+    "javascript",
+    "html5"
+  ],
+  "author": "Ayooluwa Isaiah + Michael Maldonado",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
